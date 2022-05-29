@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1Ff93Fa262b6F6e4Fc568d4BF3f791f42F20fC90",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1ff93fa262b6f6e4fc568d4bf3f791f42f20fc90",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Lit Birdie (Genesis)",
+  "SYMBOL": "Lit Birdie (Genesis)",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lit-birdies-genesis",
+  "SHOW_BACKGROUND": true
+}
